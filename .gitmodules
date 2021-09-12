@@ -1,0 +1,3 @@
+[submodule "actix-monkey-api"]
+	path = actix-monkey-api
+	url = git@github.com:FikriRNurhidayat/actix-monkey-api.git
